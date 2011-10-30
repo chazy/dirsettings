@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1860
+
+Dirsettings allow you to customize the behaviro of VIM in a single subtree
+by placing a .vimdir file in the root of that directory.
+
+Extremely useful when hacking Android and Linux kernel at the same time
+for example.
